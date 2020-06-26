@@ -1,0 +1,77 @@
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline;
+    padding: 10px;
+}
+.Gmail{
+    float: right;
+    font-size: 20px;
+}
+.Images{
+    float: right;
+    font-size: 20px;
+}
+.appsicon{
+    float: right;
+    font-size: 20px;
+}
+.SignIn{
+    float: right;
+    font-size: 20px;
+}
+input{    
+    background: url("http://kodyrabatowe.wp.pl/img/ico/search_gr.png") top left     no-repeat;
+    height:30px;
+    padding-left:25px;   
+}
+.centercontainer {
+    margin-left: 25%;
+        
+}
+.searchcontainer{
+    padding: 50px;
+    margin-left: 25%;
+    
+    
+
+}
+.searchb{
+    margin-left: 35%;
+}
+.Privacy{
+    font-size: 20px;
+    float: right;
+    
+}
+.Terms{
+    font-size: 20px;
+    float: right;
+    
+}
+.Settings{
+    font-size: 20px;
+    float: right;
+}
+.About{
+    font-size: 20px;
+    margin-top: 75%;
+    align-content: left;
+}
+.Store{
+    font-size: 20px;
+}
+.Advertising{
+    font-size: 20px;
+}
+.Business{
+    font-size: 20px;
+}
+.HowSearchworks{
+    font-size: 20px;
+}
+.footer{
+    margin-top: 20%;
+}
+/* need help moving this further downwards */
